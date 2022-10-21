@@ -1,7 +1,7 @@
 {
-    "token": "MTAyODMzMjUzMzY3MjMxMjg4Mw.GbWsBL.LEXboE2Uvm09U3QttsGEuTFlg66J6CetksbJCw",
+    "token": "",
     "prefix": "?",
-    "mongodb": "mongodb+srv://lander4k:Lander2008.@cluster0.zekscit.mongodb.net/?retryWrites=true&w=majority",
+    "mongodb": "",
     "ownerIDS": ["1015278001610559509"],
     "color": "#FF6EC6"
 }
